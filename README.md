@@ -6,7 +6,7 @@
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/vheltai/edit/forms/next-action/after-connect-add-position/">Prof. Vinicius Heltai Pacheco </a>, 
 </a>
 
-## Feito pelo Aluno: <a href="https://www.linkedin.com/in/lucas-maciel-62492a201/">Lucas Silva Maciel </a>, 
+## Feito pelo Aluno: <a href="https://www.linkedin.com/in/lucas-maciel-62492a201/">Lucas Silva Maciel </a>
 </a>
 
 
