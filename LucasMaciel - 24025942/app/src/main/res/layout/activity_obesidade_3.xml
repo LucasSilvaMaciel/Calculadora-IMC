@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/Branco"
+    android:gravity="center">
+
+    <!-- Título -->
+    <TextView
+        android:id="@+id/textViewTitulo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/titulo_obesidade_3"
+        android:textSize="22sp"
+        android:textColor="@color/VerdeEscuro"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp"/>
+
+    <!-- Peso -->
+    <TextView
+        android:id="@+id/textViewPeso"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_peso"
+        android:textSize="18sp"
+        android:textColor="@color/CinzaEscuro"
+        android:layout_marginBottom="8dp"/>
+
+    <!-- Altura -->
+    <TextView
+        android:id="@+id/textViewAltura"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_altura"
+        android:textSize="18sp"
+        android:textColor="@color/CinzaEscuro"
+        android:layout_marginBottom="8dp"/>
+
+    <!-- IMC -->
+    <TextView
+        android:id="@+id/textViewIMC"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_imc"
+        android:textSize="18sp"
+        android:textColor="@color/CinzaEscuro"
+        android:layout_marginBottom="8dp"/>
+
+    <!-- Classificação -->
+    <TextView
+        android:id="@+id/textViewClassificacao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_classificacao_obesidade_3"
+        android:textSize="18sp"
+        android:textColor="@color/CinzaEscuro"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp"/>
+
+    <!-- Imagem -->
+    <ImageView
+        android:id="@+id/imageViewFeedback"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:src="@drawable/obesidade_3"
+        android:layout_marginBottom="16dp"
+        android:contentDescription="@string/imagem_obesidade_3"/>
+
+    <!-- Mensagem Motivacional -->
+    <TextView
+        android:id="@+id/textViewMensagem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/mensagem_obesidade_3"
+        android:textSize="16sp"
+        android:textColor="@color/CinzaEscuro"
+        android:gravity="center"
+        android:padding="8dp"
+        android:layout_marginBottom="16dp"/>
+
+    <!-- Botão Fechar -->
+    <Button
+        android:id="@+id/buttonFechar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/botao_fechar"
+        android:textColor="@color/Branco"
+        android:backgroundTint="@color/VerdeClaro"
+        android:padding="12dp"/>
+</LinearLayout>
