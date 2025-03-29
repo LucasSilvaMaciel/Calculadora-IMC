@@ -3,7 +3,7 @@
 <p align="center">
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/vheltai/edit/forms/next-action/after-connect-add-position/">Prof. Vinicius Heltai Pacheco </a>, 
+## Professores Orientadores: <a href="https://www.linkedin.com/in/vheltai/edit/forms/next-action/after-connect-add-position/">Prof. Vinicius Heltai Pacheco </a>
 </a>
 
 ## Feito pelo Aluno: <a href="https://www.linkedin.com/in/lucas-maciel-62492a201/">Lucas Silva Maciel </a>
