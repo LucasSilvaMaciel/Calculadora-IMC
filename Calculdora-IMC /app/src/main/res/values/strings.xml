@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">CalculadoraIMC de LucasMaciel</string>
+    <string name="titulo_abaixo_peso">Abaixo do Peso</string>
+    <string name="label_peso">Peso: %1$.2f kg</string>
+    <string name="label_altura">Altura: %1$.2f m</string>
+    <string name="label_imc">IMC: %1$.2f</string>
+
+    <string name="label_classificacao_abaixo_peso">Classificação: Abaixo do Peso</string>
+    <string name="mensagem_abaixo_peso">Mantenha uma alimentação equilibrada e consulte um nutricionista!</string>
+    <string name="botao_fechar">Fechar</string>
+    <string name="imagem_abaixo_peso">Imagem representativa para abaixo do peso</string>
+
+    <string name="titulo_peso_normal">Peso Normal</string>
+    <string name="label_classificacao_peso_normal">Classificação: Peso Normal</string>
+    <string name="mensagem_peso_normal">Parabéns! Você está dentro da faixa de peso saudável. Continue com um estilo de vida equilibrado!</string>
+    <string name="imagem_peso_normal">Imagem representativa para peso normal</string>
+
+    <string name="titulo_sobrepeso">Sobrepeso</string>
+    <string name="label_classificacao_sobrepeso">Classificação: Sobrepeso</string>
+    <string name="mensagem_sobrepeso">Mantenha hábitos saudáveis e tente incorporar mais atividades físicas no seu dia a dia!</string>
+    <string name="imagem_sobrepeso">Imagem representativa para sobrepeso</string>
+
+    <string name="titulo_obesidade_1">Obesidade Grau 1</string>
+    <string name="label_classificacao_obesidade_1">Classificação: Obesidade Grau 1</string>
+    <string name="mensagem_obesidade_1">Cuidar da alimentação e praticar exercícios pode melhorar sua saúde. Busque orientação profissional!</string>
+    <string name="imagem_obesidade_1">Imagem representativa para obesidade grau 1</string>
+
+    <string name="titulo_obesidade_2">Obesidade Grau 2</string>
+    <string name="label_classificacao_obesidade_2">Classificação: Obesidade Grau 2</string>
+    <string name="mensagem_obesidade_2">Pequenas mudanças podem trazer grandes benefícios para sua saúde. Procure acompanhamento médico!</string>
+    <string name="imagem_obesidade_2">Imagem representativa para obesidade grau 2</string>
+
+    <string name="titulo_obesidade_3">Obesidade Grau 3</string>
+    <string name="label_classificacao_obesidade_3">Classificação: Obesidade Grau 3</string>
+    <string name="mensagem_obesidade_3">Sua saúde é prioridade! Busque ajuda profissional para encontrar o melhor caminho para você.</string>
+    <string name="imagem_obesidade_3">Imagem representativa para obesidade grau 3</string>
+</resources>

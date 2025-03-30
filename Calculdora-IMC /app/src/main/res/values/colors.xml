@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Preto">#FF000000</color>
+    <color name="Branco">#FFFFFFFF</color>
+    <color name="VerdeEscuro">#006341</color>
+    <color name="VerdeClaro">#00A859</color>
+    <color name="CinzaEscuro">#4D4D4D</color>
+    <color name="CinzaCLaro">#B3B3B3</color>
+
+
+</resources>
